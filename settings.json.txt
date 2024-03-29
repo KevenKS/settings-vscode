@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash", // terminal principal
+    "workbench.colorTheme": "Min Dark", // tema do vscode
+    "workbench.iconTheme": "symbols", // simbolos dos icones
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono", // necessario baixar e instalar primeiro
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120], // até aonde vai a linha antes de quebrar, para um codigo mais visivel
+    "workbench.startupEditor": "newUntitledFile", // ao iniciar vscode abre em um arquivo em branco
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short", // tamanho/quantidade de informação no nome da aba do arquivo aberto
+    "explorer.compactFolders": false, // quando esta dentro de uma pasta com outras pastas e so um arquivo ele mostra tudo junto em uma linha na visualização da arquitetura
+    "editor.semanticHighlighting.enabled": false, // nao pinta tanto os nomes de variaveis e parametros
+    "breadcrumbs.enabled": false, // retirar o caminha do arquivo que fica mostrando no top abaixo da aba do arquivo
+    "workbench.activityBar.location": "hidden", // menu lado esquerdo que é facilmente acessado com ctrl+q
+    "editor.minimap.enabled": false, // mini mapa lado direito
+    "editor.scrollbar.vertical": "hidden", // esconde barra de scroll
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.layoutControl.enabled": false,
+    "terminal.integrated.fontSize": 14,
+    // "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font"
+
+}
